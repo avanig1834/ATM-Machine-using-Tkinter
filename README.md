@@ -17,4 +17,9 @@ interactive. Libraries must be added to the code to make GUI, and
 we used the TKinter library. It is a standard GUI library for Python
 language.
 
+## Concepts used:
+1) OOPS using python
+2) GUI using Tkinter
+3) Use of Functions
+4) File Handling in Python
 
