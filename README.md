@@ -1,4 +1,4 @@
-# ATM-Machine-using-Tkinter
+# ATM-Machine
 ## Introduction
 The ATM is an automatic banking system that enables users to
 manage their accounts efficiently and quickly. It allows us many
