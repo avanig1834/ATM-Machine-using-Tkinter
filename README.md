@@ -21,5 +21,5 @@ language.
 1) OOPS using python
 2) GUI using Tkinter
 3) Use of Functions
-4) File Handling in Python
+
 
