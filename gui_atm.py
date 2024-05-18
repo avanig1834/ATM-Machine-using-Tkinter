@@ -12,7 +12,6 @@ class ATM:
         self.show_welcome_page()
         
     def show_welcome_page(self):
-        # Welcome Message
         self.welcome_label = Label(root, text="OOPS PROJECT: ATM MAHCINE GUI USING TKINTER", font=("Arial", 18, "bold"))
         self.welcome_label.pack(pady=50)
 
